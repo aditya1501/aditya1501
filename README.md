@@ -15,7 +15,7 @@
 </br>
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aditya-rao-78444815a/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.seekpng.com/png/small/301-3017770_linkedin-button-linkedin-profinder-logo-png.png" />](https://www.linkedin.com/in/aditya-rao-78444815a/)
 
 
 </br></br>
