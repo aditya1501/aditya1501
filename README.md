@@ -7,8 +7,8 @@
 </br>
 
 - 🔭 I’m currently working on remake of E-commerce website.
-- 🌱 I’m currently learning Node.js, ExpressJS and DSA
-- 💬 Ask me about Android-Studio, Java, React, Javascript, Python, tailwindcss, framer-motion, Styled-Components
+- 🌱 I’m currently learning go microservices architecture
+- 💬 Ask me about AWS, Javascript, Python, Caching, Django , Docker
 - 📫 How to reach me: [Gmail - adityarao1501@gmail.com](adityarao1501@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am a technophile and a tech geek,and i love development.
