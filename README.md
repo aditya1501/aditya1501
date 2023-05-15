@@ -6,7 +6,7 @@
 
 </br>
 
-- 🔭 I’m currently working on remake of E-commerce website.
+- 🔭 I’m currently working with @Tekion
 - 🌱 I’m currently learning go microservices architecture
 - 💬 Ask me about AWS, Javascript, Python, Caching, Django , Docker
 - 📫 How to reach me: [Gmail - adityarao1501@gmail.com](adityarao1501@gmail.com)
